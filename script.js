@@ -13,22 +13,22 @@ const nextBtn = document.getElementById('next');
 // Music
 const songs = [
   {
-    name: 'kiran01',
+    name: 'jacinto-1',
     displayName: 'Electric Chill Machine',
     artist: 'Kiran Naik',
   },
   {
-    name: 'kiran02',
+    name: 'jacinto-2',
     displayName: 'Seven Nation Army (Remix)',
     artist: 'Kiran Naik',
   },
   {
-    name: 'kiran03',
+    name: 'jacinto-3',
     displayName: 'Goodnight, Disco Queen',
     artist: 'Kiran Naik',
   },
   {
-    name: 'kiran04',
+    name: 'metric-1',
     displayName: 'Front Row (Remix)',
     artist: 'Metric/Kiran Naik',
   },
